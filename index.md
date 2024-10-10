@@ -25,3 +25,8 @@ var myVar = "Hello, world!";
 StringBuilder messageTemplate = new StringBuilder();
 messageTemplate.Add("{Message}");
 ```
+
+# Task list
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
